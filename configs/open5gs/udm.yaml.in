@@ -29,8 +29,7 @@ udm:
       key: @sysconfdir@/open5gs/hnet/secp256r1-6.key
   sbi:
     server:
-      - address: 127.0.0.12
-        port: 7777
+      - address: udm.5gc.mnc070.mcc999.3gppnetwork.org
     client:
 #      nrf:
 #        - uri: http://127.0.0.10:7777
