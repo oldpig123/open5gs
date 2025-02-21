@@ -51,3 +51,4 @@ echo "To start the NFs without SEPP, use 'start_NFs_without_SEPP.sh' script.\n"
 if [ $roaming -eq 1 ]; then
     echo "To run the roaming test, use 'roaming-test' command\n"
 fi
+
