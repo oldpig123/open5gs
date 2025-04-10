@@ -339,7 +339,7 @@ static void test1_func(abts_case *tc, void *data)
     test_ue_remove_all();
 }
 
-abts_suite *test_multi_ue(abts_suite *suite)
+abts_suite *test_invalid_suci_multi_ue(abts_suite *suite)
 {
     suite = ADD_SUITE(suite)
 
