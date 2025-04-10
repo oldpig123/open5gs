@@ -20,6 +20,7 @@ amf:
   ngap:
     server:
       - address: 10.10.1.5
+      - address: 10.0.1.4
   metrics:
     server:
       - address: 127.0.0.5
